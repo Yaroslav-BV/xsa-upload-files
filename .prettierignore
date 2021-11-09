@@ -1,0 +1,7 @@
+node_modules
+db/orders.json
+backup
+.gitignore
+.prettierrc
+package.json
+package-lock.json

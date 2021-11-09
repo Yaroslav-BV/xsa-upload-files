@@ -1,0 +1,8 @@
+#img-container {
+  padding: 10px 0;
+}
+
+#img-container > img {
+  width: 100px;
+  margin-right: 10px;
+}
